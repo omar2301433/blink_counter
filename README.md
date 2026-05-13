@@ -61,11 +61,8 @@ python main.py
 Face landmarks
 Eye movement
 Blink count
-
 Press:
-
 q
-
 to exit the application.
 
 ## How It Works
